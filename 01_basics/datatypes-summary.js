@@ -31,6 +31,7 @@ let myObj = {
 const myFunction = function(){
     console.log("Hello world");
 }
+console.log(typeof heros);
 
 console.log(typeof anotherId);
 
